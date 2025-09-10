@@ -6,11 +6,11 @@ This project demonstrates comprehensive exploratory data analysis (EDA) using SQ
 
 ## 🎥 Live Demo
 
-Watch SQL queries in action:
+
 
 ![SQL EDA Demo](sql-demo.gif)
 
-*Live demonstration of key SQL queries and business insights extraction*
+
 
 ## 🎯 Business Problem
 
